@@ -1,5 +1,5 @@
 # Homework-3
-![Network Structure](![image](https://github.com/user-attachments/assets/2dbdd7fd-7926-488b-842c-194553dc6189)
+![Network Structure](![image](https://github.com/user-attachments/assets/9c6beee3-2dd7-49de-8298-7e7c2fb6e1ae)
 )
 📌 Project Overview
 This study analyzes different vaccination strategies to prevent disease spread in social networks, comparing their effectiveness through mathematical modeling and simulations.
