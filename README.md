@@ -38,9 +38,7 @@ To replicate:
 
 from assignment 
 
-import random_vaccine, indirect_random_vaccine
+from assignment import random_vaccine, indirect_random_vaccine
 import networkx as nx
 G = nx.karate_club_graph()
 print(f"Random: {random_vaccine(G):.2f}, Indirect: {indirect_random_vaccine(G):.2f}")
-Academic Integrity Statement:
-All work is original and completed in accordance with course guidelines. Collaboration references: Friendship Paradox Paper
